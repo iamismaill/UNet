@@ -15,4 +15,4 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
 ## 2021
 
- * A U-Net Network Model for Medical Image Segmentation Based on Improved Skip Connections [Paper](https://ieeexplore.ieee.org/document/9724086)  
+ * A U-Net Network Model for Medical Image Segmentation Based on Improved Skip Connections [Paper](https://ieeexplore.ieee.org/document/9724086),[My summar](url)  
