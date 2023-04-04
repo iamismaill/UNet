@@ -11,3 +11,8 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 ## 2015
 
  * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI)  
+
+
+## 2021
+
+ * A U-Net Network Model for Medical Image Segmentation Based on Improved Skip Connections [[paper]([https://arxiv.org/pdf/1505.04597.pdf](https://ieeexplore.ieee.org/document/9724086))]  
