@@ -9,6 +9,7 @@ In order to share my research findings with others, I have compiled a list of pa
 In my compilation, I have included papers that showcase my own U-Net implementations, as well as references to other relevant research in the field of semantic segmentation.
 
 ## 2015
+![U-NET](https://user-images.githubusercontent.com/51711008/229861742-e4e08cf8-6acc-4a2d-92e8-d0efbdce1723.png)
 
  * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI)  
 
