@@ -27,4 +27,4 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
  * A U-Net Network Model for Medical Image Segmentation Based on Improved Skip Connections [Paper](https://ieeexplore.ieee.org/document/9724086),[A Recap of My Key Findings and Insights]( https://github.com/iamismaill/UNet/blob/main/2021/A_U-Net_Network_Model_for_Medical_Image_Segmentation_Based_on_Improved_Skip_Connections.pdf ) or  [PPT](https://github.com/iamismaill/UNet/blob/main/2021/Extracting%20Key%20Insights%20from%20A%20U-Net%20Network%20Model%20for%20Medical%20Image%20Segmentation%20Based%20on%20Improved%20Skip%20Connections:%20A%20Summary%20of%20Key%20Takeaways.pptx)
 
-* CNN based U-Net with Modified Skip Connections for Colon Polyp Segmentation [Paper](https://github.com/iamismaill/UNet/tree/main/2015)
+* CNN based U-Net with Modified Skip Connections for Colon Polyp Segmentation [Paper](https://github.com/iamismaill/UNet/blob/main/2021/CNN_based_U-Net_with_Modified_Skip_Connections_for_Colon_Polyp_Segmentation.pdf)
