@@ -1,6 +1,6 @@
 ## Key Points 
 
-The U-Net architecture is a modification of the Fully Convolutional Network that is designed for better segmentation in medical imaging. The architecture uses excessive data augmentation, including elastic deformations, to enable the network to learn invariance to such deformations without the need to see them in the annotated image corpus.
+The U-Net architecture is a modification of the Fully Convolutional Network that is designed for better segmentation in medical imaging. 
 
 ### The crux of this paper lies in 
 * The U-Net paper proposes a convolutional neural network architecture for semantic segmentation in biomedical image analysis. Here are the key points of the paper:
