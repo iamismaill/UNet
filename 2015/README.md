@@ -5,7 +5,12 @@ The U-Net architecture is a modification of the Fully Convolutional Network that
 ### The crux of this paper lies in 
 * The U-Net paper proposes a convolutional neural network architecture for semantic segmentation in biomedical image analysis. Here are the key points of the paper:
 
-* U-Net architecture: The U-Net architecture consists of a contracting path and an expansive path, with skip connections between them. The contracting path captures high-level context information through convolutional and pooling layers, while the expansive path enables precise localization through transposed convolutions.
+* U-Net architecture: The U-Net architecture consists of a contracting path(downsampling) and an expansive path (upsampling), with skip connections between them. The contracting path captures high-level context information through convolutional and pooling layers, while the expansive path enables precise localization through transposed convolutions.
+
+* The contraction path(Downsampling ) involves applying a 3x3 convolution without padding, followed by a ReLU activation and 2x2 max pooling with a stride 
+of 2 to downsample the feature map. With each downsampling step, the number of feature channels doubles, which helps to capture context in a more concise feature map.
+
+* The expansion path then performs an upsampling of the feature map, followed by a 2x2 "up-convolution" that reduces the number of feature channels by half
 
 * Data augmentation: The authors advocate for the use of excessive data augmentation to improve the performance of the network. 
 
