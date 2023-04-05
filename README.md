@@ -20,7 +20,7 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 ## 2020
 
 
- * Improved U-Net Network Segmentation Method for Remote Sensing Image [My Key Insights](https://github.com/iamismaill/UNet/blob/main/2020/Improved%20UNet%20Network%20Segmentatic%20for%20remote%20sensign%20image.pdf) or [PPT](https://arxiv.org/abs/1505.04597) 
+ * Improved U-Net Network Segmentation Method for Remote Sensing Image [My Key Insights](https://github.com/iamismaill/UNet/blob/main/2020/Improved%20UNet%20Network%20Segmentatic%20for%20remote%20sensign%20image.pdf) or [PPT](https://github.com/iamismaill/UNet/blob/main/2020/My%20Key%20findings.pptx) 
 
 
 ## 2021
