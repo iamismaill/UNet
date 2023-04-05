@@ -15,7 +15,7 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 ## 2015
 
 
- * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [My Key Insights](https://github.com/iamismaill/UNet/tree/main/2015)  [Paper]([url](https://arxiv.org/abs/1505.04597))
+ * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [My Key Insights](https://github.com/iamismaill/UNet/tree/main/2015) [Paper](https://arxiv.org/abs/1505.04597) 
  
 ## 2021
 
