@@ -17,6 +17,10 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
  * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [My Key Insights](https://github.com/iamismaill/UNet/tree/main/2015) or [Paper](https://arxiv.org/abs/1505.04597) 
 
+## 2017
+
+ *W-Net: A Deep Model for Fully Unsupervised Image Segmentation [My Key Insights](https://github.com/iamismaill/UNet/tree/main/W-NET) 
+
 ## 2020
 
 
