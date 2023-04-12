@@ -19,7 +19,7 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
 ## 2017
 
- *W-Net: A Deep Model for Fully Unsupervised Image Segmentation [My Key Insights](https://github.com/iamismaill/UNet/tree/main/W-NET) 
+ * W-Net: A Deep Model for Fully Unsupervised Image Segmentation [My Key Insights](https://github.com/iamismaill/UNet/tree/main/W-NET) 
 
 ## 2020
 
