@@ -25,7 +25,7 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
  * Improved U-Net Network Segmentation Method for Remote Sensing Image [My Key Insights](https://github.com/iamismaill/UNet/blob/main/2020/Improved%20UNet%20Network%20Segmentatic%20for%20remote%20sensign%20image.pdf) or [PPT](https://github.com/iamismaill/UNet/blob/main/2020/My%20Key%20findings.pptx) 
 
-*  Unsupervised anomaly detection of the gas turbine operation via convolutional auto-encoder [My Key Insights](https://github.com/iamismaill/UNet/tree/main/W-NET) 
+*  Unsupervised anomaly detection of the gas turbine operation via convolutional auto-encoder [My Key Insights](https://github.com/iamismaill/UNet/tree/main/Unsupervised%20anomaly%20detection%20of%20the%20gas%20turbine_operation_%20via_convolutional_%20auto-encoder) 
 
 ## 2021
 
