@@ -9,4 +9,5 @@
 * In the skip connection, the feature map of each resolution in the encoder and the corresponding feature map in the decoder are sent to the attention module , and then the output of the attention module is concatenated with the corresponding feature map in the decoder
  
  
-                    ![attentionmodel](https://user-images.githubusercontent.com/51711008/231850335-449d652b-e4de-4990-bcaf-7fca94286ab4.png)
+                     
+           ![attentionmodel](https://user-images.githubusercontent.com/51711008/231850466-94a37487-934e-47d3-b061-47062c686c65.png)
