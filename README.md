@@ -35,4 +35,4 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
 ## 2022
 * U-Net: A deep-learning method for improving summer precipitation
-forecasts in China (MICCAI) [My Key Insights](https://github.com/iamismaill/UNet/tree/main/2015) or [Paper](https://arxiv.org/abs/1505.04597) 
+forecasts in China (MICCAI) [My Key Insights](https://github.com/iamismaill/UNet/tree/main/U-Net:%20A%20deep-learning%20method%20for%20improving%20summer%20precipitation_forecasts%20in%20China)  
