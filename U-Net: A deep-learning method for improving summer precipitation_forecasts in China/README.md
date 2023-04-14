@@ -13,4 +13,5 @@ sign (AS); temporal correlation coeï¬ƒcient (TCC); and anomaly correlation coeï¬
  
 
 
-images.githubusercontent.com/51711008/231931175-ea17935e-3e2a-4a23-92c6-108dfff4d6db.png)
+
+![xog](https://user-images.githubusercontent.com/51711008/231932508-3f85005e-75af-497c-85f4-ac471dfa5017.png)
