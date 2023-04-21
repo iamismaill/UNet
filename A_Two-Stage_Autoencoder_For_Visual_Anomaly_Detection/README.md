@@ -1,1 +1,10 @@
-dd
+## Key Points
+* Anomaly detection in surveillance video is of great significance for public safety. Deep autoencoder has been widely used in anomaly detection. Because of its good generalization ability, sometimes abnormal samples can still be reconstructed very well.
+
+* They introduce an attention mechanism to propose an attention-based U-Net network to detect anomalies. The network adds an attention module before the skip connection of U-Net network, so that the model pays more attention to the foreground targets.
+
+* The proposed anomaly detection encoder-decoder is implemented by U-Net network with an attention module, and the network structure is shown in Fig. 2. The path on the left side of the network corresponds to the encoder; the path on the right side of the network corresponds to the decoder.
+
+* In the skip connection, the feature map of each resolution in the encoder and the corresponding feature map in the decoder are sent to the attention module , and then the output of the attention module is concatenated with the corresponding feature map in the decoder
+
+![스크린샷, 2023-04-21 10-46-11](https://user-images.githubusercontent.com/51711008/233521322-cf93585f-1385-4e99-9524-dce81915a57e.png)
