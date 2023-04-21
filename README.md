@@ -33,7 +33,7 @@ In my compilation, I have included papers that showcase my own U-Net implementat
 
 * CNN based U-Net with Modified Skip Connections for Colon Polyp Segmentation [My Key Insights](https://github.com/iamismaill/UNet/tree/main/CNN%20based%20U-Net%20with%20Modified%20Skip%20Connections%20for%20Colon_Polyp%20Segmentation)
 
-* A TWO-STAGE AUTOENCODER FOR VISUAL ANOMALY DETECTION [My Key Insights](https://github.com/iamismaill/UNet/tree/main/W-NET) 
+* A TWO-STAGE AUTOENCODER FOR VISUAL ANOMALY DETECTION [My Key Insights](https://github.com/iamismaill/UNet/tree/main/A_Two-Stage_Autoencoder_For_Visual_Anomaly_Detection) 
 ## 2022
 * U-Net: A deep-learning method for improving summer precipitation
 forecasts in China (MICCAI) [My Key Insights](https://github.com/iamismaill/UNet/tree/main/U-Net:%20A%20deep-learning%20method%20for%20improving%20summer%20precipitation_forecasts%20in%20China)  
